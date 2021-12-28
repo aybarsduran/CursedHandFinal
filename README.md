@@ -22,3 +22,4 @@ The active player can play as many cards as he can afford.
 If the opponent player's Health drops to or below zero the active player wins the game.
 If the active player can't play or simply doesn't want to play another card, by the clicking end turn button the opponent player becomes active.
  
+![26-uml (1)](https://user-images.githubusercontent.com/82825564/147564482-594624ee-281d-4652-a3a7-c91443742dce.png)
