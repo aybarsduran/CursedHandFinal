@@ -1,4 +1,4 @@
-You can play this game from build.Build link:https://drive.google.com/file/d/1-hvJZYZ5-6Lguk1_PdEKCpXJYtnleTps/view?usp=sharing
+You can play this game from build. Build link:https://drive.google.com/drive/folders/1aIiZSY0e8pxGJlHWxAxQCKzjduCxtLzx?usp=sharing
 Cursed Hand is a Unity C# multiplayer trading card game (similar to Hearthstone)
 You can run the game from your build.
 You can play with your friend using Hamachi.Even on different networks!
